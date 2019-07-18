@@ -32,3 +32,5 @@ ergebnis()
 PS1='\033[1;36m \u@\h \w\033[0m `(ergebnis)` \d \A \n$ '
 
 
+# Einfach nurmal ein Test 
+

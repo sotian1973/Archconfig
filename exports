@@ -1,0 +1,25 @@
+#################################
+# Exports für bash              #
+#                               #
+# Ersteller Nevera Skagain      #
+# Anno 08/2018                  #
+#################################
+
+
+
+
+
+
+#Path Variable
+################
+
+export PATH=$PATH:/home/sotian/.local/bin:/home/sotian/.local/lib
+
+
+#Proxy Umgebung
+###############
+
+export http_proxy=http://abasch:Alwim50iRg!@zproxy.zeus.loc:3128
+export https_proxy=http://abasch:Alwim50iRg!@zproxy.zeus.loc:3128
+
+

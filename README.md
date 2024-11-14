@@ -8,6 +8,6 @@ Weiter müssen Softlinks erstellt werden in den entsprechenden Homeverzeichnis a
 
 Beispiel:
 
-ln -s /home/$USER/.DOTFILES/.bashrc /home/$USER/.bashrc
+ln -s /$HOME/.DOTFILES/.bashrc /$HOME/.bashrc
 
 

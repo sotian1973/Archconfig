@@ -7,4 +7,5 @@
 
 alias ls='ls -lah --color=always'
 alias grep='grep --color=auto'
+alias update='sudo pacman -Syu'
 
